@@ -1,8 +1,8 @@
-#NextJS/React Bootstrap Boilerplate Project
+# NextJS/React Bootstrap Boilerplate Project
 
 This project was created to use in tandem with our tutorial on [building a responsive navbar mega menu]() and for general front end developer fiddling.
 
-##Built with:
+## Built with:
 
 - [NextJS](https://nextjs.org/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
@@ -10,7 +10,7 @@ This project was created to use in tandem with our tutorial on [building a respo
 - Images not from @FortAwesome are from [Unsplash](http://www.https://unsplash.com/)
 - Placeholder text care of [Coffee Ipsum](http://coffeeipsum.com/)
 
-##Getting Started
+## Getting Started
 Fork, clone, and run:
 
 ```
