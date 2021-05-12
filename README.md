@@ -6,7 +6,7 @@ This project was created to use in tandem with our tutorial on [building a respo
 
 - [NextJS](https://nextjs.org/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
-- [@FortAwesome for React](https://www.npmjs.com/package/@fortawesome/react-fontawesome) (and several related @FortAwesome packages)
+- [@FortAwesome](https://github.com/FortAwesome)
 - Logo care of [Logo Ipsum](https://logoipsum.com/)
 - Images not from @FortAwesome are from [Unsplash](http://www.https://unsplash.com/)
 - Placeholder text care of [Coffee Ipsum](http://coffeeipsum.com/)
