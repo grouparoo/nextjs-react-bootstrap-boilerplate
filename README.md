@@ -2,9 +2,7 @@
 
 This project was created to use in tandem with our tutorial on [building a responsive navbar mega menu]() and for general front end developer fiddling.
 
-[Here](https://nextjs-react-bootstrap-boilerplate.vercel.app/) is what we start with.
-
-And [here](https://nextjs-react-bootstrap-boilerplate-ddnkxycta-grouparoo.vercel.app/) is the finished Navbar with the Mega Menu
+<a href="https://nextjs-react-bootstrap-boilerplate.vercel.app/" target="_blank">Here</a> is what we start with and <a href="https://nextjs-react-bootstrap-boilerplate-ddnkxycta-grouparoo.vercel.app/" target="_blank">here</a> is the finished Navbar with the Mega Menu
 
 ##Project built with:
 
