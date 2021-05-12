@@ -1,0 +1,31 @@
+// -- External Components --
+@import "~bootstrap/scss/bootstrap";
+@import "~@fortawesome/fontawesome-svg-core/styles.css";
+
+// Page Defaults
+body {
+  font-weight: 300;
+  font-size: 18px;
+}
+
+// -- Typography --
+.text-big-muted {
+  @extend .text-muted;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+header {
+  font-weight: 400;
+}
+
+.parallax {
+  min-height: 400px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.paralsec {
+  background-image: url("/cafe-people.jpeg");
+}
