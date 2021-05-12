@@ -1,4 +1,4 @@
-#NextJS/React Bootstrap Boilerplate Project
+#mNextJS/React Bootstrap Boilerplate Project
 
 This project was created to use in tandem with our tutorial on [building a responsive navbar mega menu]() and for general front end developer fiddling.
 

@@ -29,3 +29,49 @@ header {
 .paralsec {
   background-image: url("/cafe-people.jpeg");
 }
+
+.nav-link {
+  font-size: 0.95rem;
+}
+
+#basic-nav-dropdown {
+  font-size: 0.95rem;
+}
+
+#seeMoreLink {
+  color: #607d8b;
+}
+
+#seeMoreLink:hover {
+  color: black;
+  font-weight: 400;
+}
+.dropdown-menu {
+  padding: 1em;
+}
+
+.dropdown-item:hover {
+  outline: none;
+  box-shadow: none;
+  background: none;
+}
+.dropdown-item a:hover {
+  color: black;
+}
+
+.dropdown-item {
+  height: 2em;
+  padding-left: 0em;
+}
+
+.dropdown-header {
+  font-weight: 600;
+  padding-left: 0em;
+}
+
+@media only screen and (min-width: 600px) {
+  .eventsNav {
+    width: 22em;
+    padding-bottom: 1em;
+  }
+}
