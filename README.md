@@ -1,6 +1,6 @@
 # NextJS/React Bootstrap Boilerplate Project
 
-This project was created to use in tandem with our tutorial on [building a responsive navbar mega menu]() and for general front end developer fiddling.
+This project was created to use in tandem with our tutorial on [building a responsive navbar mega menu](https://www.grouparoo.com/blog/build-a-mega-menu-with-react-bootstrap) and for general front end developer fiddling.
 
 ## Built with:
 
